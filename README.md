@@ -6,7 +6,7 @@ Este repositório reúne os projeto desenvolvidos durante o Bootcamp Bradesco - 
 
 # 🎙️ Assistente de Voz Inteligente com Gemini AI & Automação Desktop
 
-Este projeto é uma evolução de um desafio prático da **DIO (Digital Innovation One)**. Enquanto o projeto original focava em transcrição e tradução multi-idiomas utilizando OpenAI, decidi elevar o nível criando um **Assistente Virtual focado em produtividade no PC**, utilizando o poder do modelo **Gemini 1.5 Flash** da Google.
+Este projeto é uma evolução de um desafio prático da **DIO (Digital Innovation One)**. Enquanto o projeto original focava em transcrição e tradução idiomas utilizando OpenAI, decidi elevar o nível criando um **Assistente Virtual focado em produtividade no PC**, utilizando o poder do modelo **Gemini 1.5 Flash** da Google.
 
 ---
 
