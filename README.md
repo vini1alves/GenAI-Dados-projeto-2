@@ -51,7 +51,6 @@ Este repositório demonstra minha capacidade de ir além do proposto em aula:
    pip install
    google-generativeai
    speechrecognition
-   PyAudio
 
 ### 👨‍💻 Autor
 
