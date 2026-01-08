@@ -48,7 +48,10 @@ Este repositório demonstra minha capacidade de ir além do proposto em aula:
 ## ⚙️ Como Executar
 1. Instale as dependências:
    ```bash
-   pip install google-generativeai speechrecognition PyAudio
+   pip install
+   google-generativeai
+   speechrecognition
+   PyAudio
 
 ### 👨‍💻 Autor
 
